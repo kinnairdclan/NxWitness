@@ -17,7 +17,7 @@ public class MatrixJsonSchemaBase
     [JsonPropertyOrder(-2)]
     public int SchemaVersion { get; set; } = MatrixJsonSchema.Version;
 
-    protected const string SchemaUri = "https://raw.githubusercontent.com/ptr727/NxWitness/main/CreateMatrix/JSON/Matrix.schema.json";
+    protected const string SchemaUri = "https://raw.githubusercontent.com/kinnairdclan/NxWitness/nxgo/CreateMatrix/JSON/Matrix.schema.json";
 }
 
 public class MatrixJsonSchema : MatrixJsonSchemaBase

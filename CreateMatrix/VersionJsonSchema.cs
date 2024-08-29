@@ -15,7 +15,7 @@ public class VersionJsonSchemaBase
     [JsonPropertyOrder(-2)]
     public int SchemaVersion { get; set; } = VersionJsonSchema.Version;
 
-    protected const string SchemaUri = "https://raw.githubusercontent.com/ptr727/NxWitness/main/CreateMatrix/JSON/Version.schema.json";
+    protected const string SchemaUri = "https://raw.githubusercontent.com/kinnairdclan/NxWitness/nxgo/CreateMatrix/JSON/Version.schema.json";
 }
 
 public class VersionJsonSchema : VersionJsonSchemaBase

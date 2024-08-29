@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/ptr727/NxWitness/main/CreateMatrix/JSON/Matrix.schema.json",
+  "$schema": "https://raw.githubusercontent.com/kinnairdclan/NxWitness/nxgo/CreateMatrix/JSON/Matrix.schema.json",
   "SchemaVersion": 2,
   "Images": [
     {

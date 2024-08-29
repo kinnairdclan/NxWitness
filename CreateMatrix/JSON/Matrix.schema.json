@@ -41,6 +41,6 @@
     }
   },
   "title": "CreateMatrix Matrix Schema",
-  "$id": "https://raw.githubusercontent.com/ptr727/NxWitness/main/CreateMatrix/JSON/Matrix.schema.json",
+  "$id": "https://raw.githubusercontent.com/kinnairdclan/NxWitness/nxgo/CreateMatrix/JSON/Matrix.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema"
 }
